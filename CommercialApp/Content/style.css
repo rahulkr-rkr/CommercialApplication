@@ -1,0 +1,145 @@
+﻿*, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+    .clearfix:after {
+        content: '.';
+        clear: both;
+        display: block;
+        height: 0;
+        visibility: hidden;
+    }
+
+
+html {
+    background-color: #fff;
+    color: #555555;
+    font-family: 'Roboto';
+    text-rendering: optimizeLegibility;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.row1 {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: 300;
+}
+
+
+
+.main-text {
+    margin: 0;
+    margin-bottom: 20px;
+    color: #fff;
+    font-size: 240%;
+    font-weight: 300;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+}
+
+
+
+
+.head_section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../fonts/images/paycheck.jpeg);
+    height: 95vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.logo {
+    height: 80px;
+    width: auto;
+    margin-left: 60px;
+    float: left;
+    margin-top: 30px;
+}
+
+.main-nav {
+    float: right;
+    list-style: none;
+    margin-right: 40px;
+    margin-top: 65px;
+}
+
+
+
+
+
+
+
+
+.nav-item {
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 20px;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 8px 0;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.2s;
+}
+
+
+
+    .nav-item:hover {
+        border-bottom: 2px solid #ff6a00;
+    }
+
+.hero {
+    position: absolute;
+    width: 1140px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-transform: uppercase;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 30px;
+    font-size: medium;
+    font-weight: 100;
+    border-radius: 200px;
+    text-transform: capitalize;
+    transition: background-color 0.2s,border 0.2s,color 0.2s;
+}
+
+.button2 {
+    border: 1px solid #ff5800;
+    color: #ff5800;
+}
+
+    .button2:hover {
+        background-color: #ff4500;
+        border: 1px solid #ff4500;
+        color: #fff;
+    }
+
+.steps {
+    margin-top: 0;
+    background-color: #e2e2e2;
+    height: 80%;
+}
+
+.footer {
+    background-color: #2e2e2e;
+    padding: 50px;
+}

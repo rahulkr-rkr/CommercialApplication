@@ -1,0 +1,12 @@
+C:\Users\REAL E STORE\source\repos\BussinessLayer\bin\Debug\netstandard2.0\BussinessLayer.deps.json
+C:\Users\REAL E STORE\source\repos\BussinessLayer\bin\Debug\netstandard2.0\BussinessLayer.dll
+C:\Users\REAL E STORE\source\repos\BussinessLayer\bin\Debug\netstandard2.0\BussinessLayer.pdb
+C:\Users\REAL E STORE\source\repos\BussinessLayer\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\REAL E STORE\source\repos\BussinessLayer\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\REAL E STORE\source\repos\BussinessLayer\obj\Debug\netstandard2.0\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\REAL E STORE\source\repos\BussinessLayer\obj\Debug\netstandard2.0\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\REAL E STORE\source\repos\BussinessLayer\obj\Debug\netstandard2.0\BussinessLayer.AssemblyInfo.cs
+C:\Users\REAL E STORE\source\repos\BussinessLayer\obj\Debug\netstandard2.0\BussinessLayer.csproj.CopyComplete
+C:\Users\REAL E STORE\source\repos\BussinessLayer\obj\Debug\netstandard2.0\BussinessLayer.dll
+C:\Users\REAL E STORE\source\repos\BussinessLayer\obj\Debug\netstandard2.0\BussinessLayer.pdb
+C:\Users\REAL E STORE\source\repos\BussinessLayer\obj\Debug\netstandard2.0\XamlC.stamp

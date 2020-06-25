@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Welcome";
+    Layout = "~/Views/Shared/_defaultLayoutPage1.cshtml";
+}
+
+@if (Session["useremail"] != null)
+{
+
+    <h2>Welcome @Session["useremail"].ToString();</h2>
+
+    <div>
+        @Html.ActionLink("APPLY NOW", "ApplicantView", "Applicant")
+    </div>
+
+}
+
+

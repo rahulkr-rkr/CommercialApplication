@@ -1,0 +1,9 @@
+C:\Users\REAL E STORE\source\repos\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\REAL E STORE\source\repos\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\REAL E STORE\source\repos\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\REAL E STORE\source\repos\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\REAL E STORE\source\repos\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\REAL E STORE\source\repos\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\REAL E STORE\source\repos\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\REAL E STORE\source\repos\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\REAL E STORE\source\repos\DataAccess\obj\Debug\netstandard2.0\XamlC.stamp
